@@ -1,0 +1,7 @@
+resources\ScreenCaptureUtil.class
+pageObjects\PostAd.class
+extentReportListener\ExtentReportListener.class
+pageObjects\Vastu.class
+pageObjects\PropertyValuation.class
+resources\Base.class
+pageObjects\LegalTitleCheck.class

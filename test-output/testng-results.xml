@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-13T15:17:30 IST" name="Default suite" finished-at="2022-04-13T15:19:27 IST" duration-ms="117018">
+    <groups>
+    </groups>
+    <test started-at="2022-04-13T15:17:30 IST" name="Default test" finished-at="2022-04-13T15:19:27 IST" duration-ms="117018">
+      <class name="stepDefinations.StepDefinations">
+        <test-method signature="a_sample_report_should_get_downloaded_for_property_valuation()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:30 IST" name="a_sample_report_should_get_downloaded_for_property_valuation" finished-at="2022-04-13T15:17:30 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_sample_report_should_get_downloaded_for_property_valuation -->
+        <test-method signature="a_sample_report_should_get_downloaded_of_consultant()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:30 IST" name="a_sample_report_should_get_downloaded_of_consultant" finished-at="2022-04-13T15:17:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_sample_report_should_get_downloaded_of_consultant -->
+        <test-method signature="user_click_on_continue_to_post()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:30 IST" name="user_click_on_continue_to_post" finished-at="2022-04-13T15:17:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_continue_to_post -->
+        <test-method signature="user_click_on_download_sample_report_of_property_valuation()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:30 IST" name="user_click_on_download_sample_report_of_property_valuation" finished-at="2022-04-13T15:17:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_download_sample_report_of_property_valuation -->
+        <test-method signature="user_click_on_property_services_and_select_legal_title_check()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:30 IST" name="user_click_on_property_services_and_select_legal_title_check" finished-at="2022-04-13T15:17:48 IST" duration-ms="18350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_property_services_and_select_legal_title_check -->
+        <test-method signature="user_click_on_property_services_and_select_property_valuation()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:17:48 IST" name="user_click_on_property_services_and_select_property_valuation" finished-at="2022-04-13T15:18:14 IST" duration-ms="26222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_property_services_and_select_property_valuation -->
+        <test-method signature="user_click_on_property_services_and_select_vastu()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:18:14 IST" name="user_click_on_property_services_and_select_vastu" finished-at="2022-04-13T15:18:32 IST" duration-ms="17857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_property_services_and_select_vastu -->
+        <test-method signature="user_click_on_request_a_valuation()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:18:32 IST" name="user_click_on_request_a_valuation" finished-at="2022-04-13T15:18:35 IST" duration-ms="3168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_request_a_valuation -->
+        <test-method signature="user_click_on_sell_and_select_post_property()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:18:35 IST" name="user_click_on_sell_and_select_post_property" finished-at="2022-04-13T15:19:02 IST" duration-ms="26393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_sell_and_select_post_property -->
+        <test-method signature="user_click_on_verify_property_documents()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:02 IST" name="user_click_on_verify_property_documents" finished-at="2022-04-13T15:19:02 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_click_on_verify_property_documents -->
+        <test-method signature="user_enters_the_property_location_details()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:02 IST" name="user_enters_the_property_location_details" finished-at="2022-04-13T15:19:02 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_enters_the_property_location_details -->
+        <test-method signature="user_is_able_to_download_sample_report_of_consultant()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:02 IST" name="user_is_able_to_download_sample_report_of_consultant" finished-at="2022-04-13T15:19:02 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_able_to_download_sample_report_of_consultant -->
+        <test-method signature="user_is_able_to_post_a_add()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:02 IST" name="user_is_able_to_post_a_add" finished-at="2022-04-13T15:19:03 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_able_to_post_a_add -->
+        <test-method signature="user_is_able_to_select_consultant()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:03 IST" name="user_is_able_to_select_consultant" finished-at="2022-04-13T15:19:09 IST" duration-ms="6508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_able_to_select_consultant -->
+        <test-method signature="user_is_able_to_select_free_ad_package()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:09 IST" name="user_is_able_to_select_free_ad_package" finished-at="2022-04-13T15:19:15 IST" duration-ms="5635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_able_to_select_free_ad_package -->
+        <test-method signature="user_is_able_to_view_details_of_consultant()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:15 IST" name="user_is_able_to_view_details_of_consultant" finished-at="2022-04-13T15:19:19 IST" duration-ms="4200" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_is_able_to_view_details_of_consultant -->
+        <test-method signature="user_redirected_to_packages_for_property_valuation_services()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:19 IST" name="user_redirected_to_packages_for_property_valuation_services" finished-at="2022-04-13T15:19:21 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_redirected_to_packages_for_property_valuation_services -->
+        <test-method signature="user_redirects_to_packages_for_property_legal_title_check()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:21 IST" name="user_redirects_to_packages_for_property_legal_title_check" finished-at="2022-04-13T15:19:21 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_redirects_to_packages_for_property_legal_title_check -->
+        <test-method signature="user_select_property_type()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:21 IST" name="user_select_property_type" finished-at="2022-04-13T15:19:26 IST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_select_property_type -->
+        <test-method signature="user_select_the_property_features()[pri:0, instance:stepDefinations.StepDefinations@43dac38f]" started-at="2022-04-13T15:19:26 IST" name="user_select_the_property_features" finished-at="2022-04-13T15:19:27 IST" duration-ms="846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- user_select_the_property_features -->
+      </class> <!-- stepDefinations.StepDefinations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
